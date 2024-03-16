@@ -3,7 +3,6 @@ setpass
 thuylinh1414
 phamtuyetmai
 luuhongtuan
-kimchi
 khamthien
 Một thư viện giúp bạn tính tổng của 2 số bất kỳ
 
